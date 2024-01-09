@@ -12,7 +12,7 @@
         
         .middle{background-color: rgb(208, 154, 39); width: 100%;
         text-align: center;}
-        .cities{background-color: antiquewhite; color: gray;
+        .cities{background-color: rgb(139, 225, 135); color: gray;
         margin: 20px; display:inline-block; margin-top: 25px; padding: 15px;}
         
         .largeFont{font-size: 22px; font-family: 'Inter'; color: rgb(80, 76, 76);}
